@@ -7,7 +7,7 @@
 ### 1. 环境配置
 
 ```bash
-git clone XXX
+git clone https://github.com/kravrolens/TSMaction.git
 conda create -n action python=3.9
 conda activate action
 conda install pytorch torchvision pytorch-cuda=11.8 -c pytorch -c nvidia -y
